@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Babiluco
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning html, Css, JavaScript
-- 💞️ I’m looking to collaborate on creation of websites, games and programs.
-- 📫 How to reach me barbaralbc00@gmail.com
+# Hi, I'm Bárbara! 👋
 
-<!---
-Babiluco/Babiluco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 **Graphic Designer | UX/UI Designer | Front-End Learner**
+
+I'm a Graphic Designer expanding my skills into **UX/UI and Front-End Development**, combining creativity, user-centered design, and technology.
+
+🎓 Google UX Design Professional Certificate  
+💻 HTML · CSS · JavaScript  
+🎨 Figma · Adobe Creative Suite  
+🌱 Currently building projects in **UX/UI, Web Design & Front-End**
+
+📂 Explore my repositories to see what I'm learning and building.
